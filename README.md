@@ -1,3 +1,8 @@
+# JS Tetris Fork
+
+Improved styling and functionality.
+
+Original Readme:
 # JS Tetris
 
 JS Tetris is a browser based clone of one of the greatest
